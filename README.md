@@ -36,9 +36,10 @@
 
 初回実行時に `settings.ini` が自動生成されます．
 
+例：
 ```ini
-TEMPLATE_NAME=
-AUTHOR_NAME=
+TEMPLATE_NAME=tmp.pptx
+AUTHOR_NAME=YourName
 ```
 
 ## 注意

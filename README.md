@@ -1,4 +1,4 @@
-# template-file-creator
+# template-copy
 
 テンプレートファイルをコピーして，日付付きの新しいファイルを自動作成する Windows 用バッチです．
 
